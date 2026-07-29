@@ -8,8 +8,8 @@ The program was given a dataset of amazon's stocks (taken from the website https
 Open: The initial price at which a stock is traded when the market opens for the day.\\
 Close: The final price at which a stock is traded when the regular trading session ends.\\
 High: The highest price the stock reached at any point during that specific trading day.\\
-Low: The lowest price the stock dropped to at any point during that trading day.\\
-Volume: The total number of shares that were bought and sold over the course of the day.\\
+Low: The lowest price the stock dropped to at any point during that trading day.\n
+Volume: The total number of shares that were bought and sold over the course of the day.
 
 The objective was to find one cluster for up days and one for down days.
 
