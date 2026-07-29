@@ -16,3 +16,6 @@ The objective was to find one cluster for up days and one for down days.
 
 # The outcome
 In the end, the program was not able to achieve the desired clustering. This became apparent from the plots, but mostly from the 50% accuracy of the predictions.
+
+# The next step
+At the moment my knowledge of unsupervised learning from the seminar ends here. Also, I achieved my main goal of getting used to pandas and matplotlib, so I will stop here. But I might try finishing it after getting a bit further into the seminar.
